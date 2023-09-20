@@ -20,3 +20,10 @@ python3 power_supply.py
 ```
 
 Enjoy a basic remote GUI for your power supply.
+
+
+# Credits:
+
+LED font from:
+https://www.dafont.com/seven-segment.font
+If you use this program commercially, please buy the font.
