@@ -2,6 +2,8 @@
 Quick+Dirty remote control for ethernet connected SPD power supplies.
 Only tested with my SPD1305X. Your mileage may vary. Don't blow things up with this, please don't blame me if you do.
 
+![Screenshot](screenshot.png)
+
 # Usage:
 
 Install dependencies:
