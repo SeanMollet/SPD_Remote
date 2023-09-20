@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import pyvisa as visa
 from time import sleep
 import tkinter as tk
